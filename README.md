@@ -4,6 +4,12 @@
 
 ---
 
+## **Exmaple with image**
+<img width="1440" alt="Screenshot 2024-12-08 at 3 13 14 PM" src="https://github.com/user-attachments/assets/4bc4cf1b-ac59-448d-a3bf-749970618c3d">
+<img width="1439" alt="Screenshot 2024-12-08 at 3 13 30 PM" src="https://github.com/user-attachments/assets/72b1dc5c-fd2e-4f95-b853-55e0c8e35532">
+<img width="1440" alt="Screenshot 2024-12-08 at 3 13 22 PM" src="https://github.com/user-attachments/assets/c0eb3304-2cf0-4b4c-a843-0e42576d1d3d">
+
+
 ## **Steps to Get Started**
 
 ### **1. Clone the Repository**
